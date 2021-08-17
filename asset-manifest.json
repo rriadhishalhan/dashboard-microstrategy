@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard-microstrategy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dashboard-microstrategy/static/js/main.f32dd2b6.chunk.js",
+    "main.js.map": "/dashboard-microstrategy/static/js/main.f32dd2b6.chunk.js.map",
+    "runtime-main.js": "/dashboard-microstrategy/static/js/runtime-main.62233730.js",
+    "runtime-main.js.map": "/dashboard-microstrategy/static/js/runtime-main.62233730.js.map",
+    "static/js/2.0b03ccce.chunk.js": "/dashboard-microstrategy/static/js/2.0b03ccce.chunk.js",
+    "static/js/2.0b03ccce.chunk.js.map": "/dashboard-microstrategy/static/js/2.0b03ccce.chunk.js.map",
+    "static/js/3.e140a3a3.chunk.js": "/dashboard-microstrategy/static/js/3.e140a3a3.chunk.js",
+    "static/js/3.e140a3a3.chunk.js.map": "/dashboard-microstrategy/static/js/3.e140a3a3.chunk.js.map",
+    "index.html": "/dashboard-microstrategy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dashboard-microstrategy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0b03ccce.chunk.js.LICENSE.txt": "/dashboard-microstrategy/static/js/2.0b03ccce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dashboard-microstrategy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62233730.js",
+    "static/js/2.0b03ccce.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f32dd2b6.chunk.js"
+  ]
+}
